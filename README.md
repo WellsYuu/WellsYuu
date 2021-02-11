@@ -17,4 +17,9 @@
 
 ------
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=walesu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=walesu&count_private=true&show_icons=true&theme=radical)](https://github.com/walesu)
+
+------
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walesu)](https://github.com/walesu)
+
