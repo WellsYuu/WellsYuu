@@ -6,7 +6,7 @@
 
 ------
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=walesu&count_private=true&show_icons=true&theme=buefy)](https://github.com/walesu)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WellsYuu&count_private=true&show_icons=true&theme=buefy)](https://github.com/WellsYuu)
 
 
 
